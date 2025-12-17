@@ -1,8 +1,7 @@
 # ai-smart canteen
 https://ai-smart-canteen-1.onrender.com 
 # This is the live link of AI Smart Canteen Reservation System
-AI-Powered Smart Canteen Reservation System
-Based on your existing idea
+
 . Predict which meals will be popular (basic ML regression).
 . Suggest mealtimes to avoid rush (based on past data).
 . Student app + Admin dashboard.
