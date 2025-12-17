@@ -2,10 +2,10 @@
 https://ai-smart-canteen-1.onrender.com 
 # This is the live link of AI Smart Canteen Reservation System
 AI-Powered Smart Canteen Reservation System
-• Based on your existing idea
-o Predict which meals will be popular (basic ML regression).
-o Suggest mealtimes to avoid rush (based on past data).
-o Student app + Admin dashboard.
-• Tech: Python (Flask), SQLite/Firebase, HTML/CSS/JS
+Based on your existing idea
+. Predict which meals will be popular (basic ML regression).
+. Suggest mealtimes to avoid rush (based on past data).
+. Student app + Admin dashboard.
+. Tech: Python (Flask), SQLite/Firebase, HTML/CSS/JS
 Admin Username: admin@example.com
 Admin Password: admin123
